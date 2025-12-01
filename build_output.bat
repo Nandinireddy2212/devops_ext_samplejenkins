@@ -6,3 +6,4 @@ ver >> output.txt
 echo Listing repo files: >> output.txt
 dir >> output.txt
 type README.md >> output.txt
+
